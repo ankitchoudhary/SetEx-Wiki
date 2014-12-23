@@ -1,0 +1,4 @@
+1. write script and handle error in script
+
+keep temp indexing.. and in end tag, copy table to temp,delete it pass to thread, create a syncronized thread to sort and write to file..  
+make sure index file is closed only when al threads end
